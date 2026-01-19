@@ -61,4 +61,4 @@ This project is implemented using **static data only** (no backend/API).
 1. **Clone the repository**
    ```bash
    git clone https://github.com/<your-username>/product-comparison.git
->>>>>>> 5003db5 (Initial commit - Product comparison app)
+
